@@ -1,0 +1,23 @@
+.btn {
+    size: 24px;
+    font-weight: 700;
+    background-color: yellow;
+    padding: 10px 20px;
+    margin: 40px;
+}
+.btn:hover {
+    background-color: orange;
+    box-shadow: 5px 5px 10px #222222;;
+}
+.btn:focus {
+    background-color: orange;
+    box-shadow: 5px 5px 10px #222222;;
+}
+.text {
+    size: 18px;
+    font-style: italic;
+    text-transform: uppercase;
+}
+.text:hover {
+    text-shadow: 8px 3px 5px rgb(109, 2, 180);
+}
